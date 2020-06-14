@@ -11,3 +11,7 @@
  State : West Bengal
  Contry : India
  
+Education :
+Univarcity : MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL
+Collage : RAMKRISHNA MAHATO GOVT ENGINEERING COLLAGE, PURULIA
+Branch : Computer Science and Engineering (CSE)
