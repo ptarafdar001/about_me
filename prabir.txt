@@ -15,3 +15,10 @@ Education :
 Univarcity : MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY, WEST BENGAL
 Collage : RAMKRISHNA MAHATO GOVT ENGINEERING COLLAGE, PURULIA
 Branch : Computer Science and Engineering (CSE)
+
+
+My skills :
+    programming skills:
+       1. C
+       2. C++
+       3. python 3.0 
