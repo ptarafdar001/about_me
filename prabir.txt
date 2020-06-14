@@ -11,3 +11,8 @@
  State : West Bengal
  Contry : India
  
+ My skills :
+    programming skills:
+       1. C
+       2. C++
+       3. python 3.0 
